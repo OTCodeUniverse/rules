@@ -1,5 +1,5 @@
 hi man,
-welcome to our study universe.
+welcome to our study universe and by yourself.
 
 thx,im coming.
 
