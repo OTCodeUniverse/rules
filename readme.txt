@@ -1,5 +1,6 @@
 hi man,
-welcome to our study universe dont worry be happy.
+
+welcome to our study universe and by yourself.
 
 thx,im coming.
 
