@@ -8,4 +8,4 @@ lyp change
 
 ot change info
 
-fix bug
+fix bug ,must resolve all bugs,then,you have live.
