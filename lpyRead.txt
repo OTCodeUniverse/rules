@@ -1,2 +1,4 @@
 im lpy,UI designer
-then,im a doctor
+then,im a doctor.
+
+hi,im macmini,clone it 12.25.
